@@ -22,3 +22,4 @@ This is my spring security learning udemy project notes
 - Create CustomUserDetailsService implement UserDetailsService: SpringSecurity will auto detect UserDetailsService bean to use for secure
 - Notethat need to create PasswordEncoder bean
 - When testing in Postman using basic auth with username and password values in DB
+- Add testcase using @WebMvcTest
